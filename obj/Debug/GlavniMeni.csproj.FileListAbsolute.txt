@@ -1,0 +1,109 @@
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.exe
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.exe
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.StartGame.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.CreateTeam.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.Settings.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.ShowPlayers.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.Settings.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.ShowPlayers.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.StartGame.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.exe
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\bin\Debug\GlavniMeni.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\bin\Debug\GlavniMeni.exe
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\bin\Debug\GlavniMeni.pdb
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.pdb
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni (1)\GlavniMeni\obj\Debug\GlavniMeni.CreateGame.resources
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.exe.config
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.exe
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.pdb
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.CreateGame.resources
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.MainForm.resources
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.Settings.resources
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.ShowPlayers.resources
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.StartGame.resources
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.csproj.GenerateResource.Cache
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.exe
+C:\Users\STUDENT 9\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.Settings.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.ShowPlayers.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.StartGame.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.exe
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.exe
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.pdb
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.exe
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\bin\Debug\GlavniMeni.pdb
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.CreateGame.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.Settings.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.ShowPlayers.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.StartGame.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.exe
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\GlavniMeni\GlavniMeni\obj\Debug\GlavniMeni.Create_Game.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.exe
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.pdb
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Create_Game.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Settings.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.ShowPlayers.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.StartGame.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.exe
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.pdb
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Judges.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Cards.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.ChangeScor.resources
+C:\Users\User\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.MakeASubstitute.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.exe
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.ChangeScor.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Create_Game.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Judges.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.MakeASubstitute.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Settings.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.ShowPlayers.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.StartGame.resources
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.exe
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Kartoni.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.exe.config
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.exe
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\bin\Debug\GlavniMeni.pdb
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.ChangeScor.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Create_Game.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Judges.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Kartoni.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.MainForm.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.MakeASubstitute.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.Settings.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.ShowPlayers.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.StartGame.resources
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.csproj.GenerateResource.Cache
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.exe
+C:\Users\Filip\Documents\SharpDevelop Projects\GlavniMeni\obj\Debug\GlavniMeni.pdb
